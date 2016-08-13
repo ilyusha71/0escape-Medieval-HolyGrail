@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{58A2B912-681B-BD45-669F-C12AC125902D}") = "iLYuSha Wakaka Medieval Games Holy Grail", "Assembly-CSharp.csproj", "{C6EF195E-CCA7-4956-310A-66D6ABAE737B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6EF195E-CCA7-4956-310A-66D6ABAE737B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6EF195E-CCA7-4956-310A-66D6ABAE737B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6EF195E-CCA7-4956-310A-66D6ABAE737B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6EF195E-CCA7-4956-310A-66D6ABAE737B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
