@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Main Classic.unity
+- path: Assets/Holy Grail.unity
   isLoaded: 1
   isActive: 1
